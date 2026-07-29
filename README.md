@@ -11,16 +11,26 @@
 
 ### 我造过的东西
 
-| 项目 | 说明 | 技术 |
-|------|------|------|
-| [🌱 育苗场智能记账助手](https://github.com/gao666-max/seedling-accounting) | 为家中育苗场打造，微信聊天记录一键转飞书模板，效率提升 10 倍 | DeepSeek API + Cloudflare Workers + HTML/CSS/JS |
-| [📅 高途智能排课系统](https://github.com/gao666-max/gaotu-course-scheduling) | 2026 AI 先锋未来人才大赛，CP-SAT 约束求解器原型，2校区×3业务线×8教师 3 秒出最优解 | OR-Tools + Python |
+┌─────────────────────────────────────────────────────────────────────┐
+│ 🌱 育苗场智能记账助手  |  2026.03-04  |(https://github.com/gao666-max/seedling-accounting) 
+│ 为家中育苗场打造，粘贴微信聊天→AI解析→飞书模板，替代手工记账           
+│ DeepSeek API · Prompt Engineering · Cloudflare Workers · HTML/CSS/JS │
+├─────────────────────────────────────────────────────────────────────┤
+│ 📅 高途智能排课系统  |  2026.06  |  (https://github.com/gao666-max/gaotu-course-scheduling)
+│ AI先锋未来人才大赛，CP-SAT约束求解器，2校区×3业务线×8教师 3秒出最优解  │
+│ OR-Tools · Python                                                    │
+├─────────────────────────────────────────────────────────────────────┤
+│ 🧪 第二曲线 · OPC创业者AI工作台  |  2026.07  | (https://docs.qq.com/doc/DYnFjRVVCY05KbHJK)
+│ horizon黑客松 · 后端主程 · Claude Code 24h交付15接口                  
+│ Express · JWT · DeepSeek · WebSocket/SSE · 串行写队列               
+└─────────────────────────────────────────────────────────────────────┘
+
 
 ### 最近在学
 
 - 具身智能机械臂（ROS2 + LeRobot SDK，暑期培训中）
 - NLP 入门（CS224n，打基础）
-- 用 AI 工具链做企业级交付（笔记侠 FDE 加速营 ing）
+
 
 ### 联系我
 
